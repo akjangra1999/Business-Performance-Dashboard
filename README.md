@@ -39,7 +39,7 @@ It helps stakeholders quickly understand key metrics and make data-driven decisi
 ### 1️⃣ Revenue Overview Dashboard
 
 
-![Profit View](Images/Profit View.png)
+![Profit View](Images/Profit_View.png)
 
 ---
 
