@@ -39,19 +39,19 @@ It helps stakeholders quickly understand key metrics and make data-driven decisi
 ### 1️⃣ Revenue Overview Dashboard
 
 
-![Revenue Overview](images/dashboard_overview.png)
+![Profit View](images/Profit_View.png)
 
 ---
 
 ### 2️⃣ Store Performance Dashboard
 
-![Store Performance](images/store_performance.png)
+![Store View](images/Store_View.png)
 
 ---
 
 ### 3️⃣ Profit & Customer Insights Dashboard
 
-![Profit & Customer Insights](images/profit_customer_insights.png)
+![Time Frame_View](images/Time_Frame_View.png)
 
 ---
 
@@ -114,9 +114,9 @@ Business-Dashboard/
 │
 ├── Dashboard.xlsx
 ├── images/
-│   ├── dashboard_overview.png
-│   ├── store_performance.png
-│   └── profit_customer_insights.png
+│   ├── Profit_View.png
+│   ├── Store_View.png
+│   └── Time_Frame_View.png
 └── README.md
 ```
 
