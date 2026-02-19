@@ -45,13 +45,13 @@ It helps stakeholders quickly understand key metrics and make data-driven decisi
 
 ### 2️⃣ Store Performance Dashboard
 
-![Store View](images/Store_View.png)
+![Store View](Images/Store_View.png)
 
 ---
 
 ### 3️⃣ Profit & Customer Insights Dashboard
 
-![Time Frame_View](images/Time_Frame_View.png)
+![Time Frame_View](Images/Time_Frame_View.png)
 
 ---
 
